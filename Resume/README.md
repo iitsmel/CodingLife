@@ -32,7 +32,7 @@ Tools I've used before / currently using.
 
 - Category
   - Tool
-    - Why/Where I use that tool.   
+    - Why / Where I use that tool.   
 <br>
 
 - VirtualBox
