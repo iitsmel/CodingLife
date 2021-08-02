@@ -114,3 +114,21 @@ Tools I've used before / currently using.
   - [Virus Total](https://www.virustotal.com/gui/)
     - malware analysis
 
+<br>
+
+- RE
+  - ghidra
+    - RE, c++
+
+<br> 
+
+- Software Testing and Security
+  - Honggfuzz
+    - fuzz
+  - angr
+    - CTF, Symbolic Execution
+  - KLEE
+    - Symbolic Execution
+  - heaphopper
+    - Check heap implementation.
+  
