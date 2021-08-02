@@ -79,7 +79,8 @@ Tools I've used before / currently using.
 
 - Packet Analyzer
   - Wireshark
-    - Look up IP in general. I've took a class named Internet Protocol.
+    - Look up IP in general. TMI 
+      - I've took a class named Internet Protocol.
 
 <br>
 
