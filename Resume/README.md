@@ -25,6 +25,12 @@
     - Translate documents when one is written in English. (If the time limit is short.)
     - Come up with alternative back up plans for our team. 
 
+- [COSCUP 2021 Field Team](https://coscup.org/2021/en/)
+  - In general:
+    - Help attendees in [Gather Town](https://gather.town).
+      - Tech issues such as unable to go through certain gate.
+      - Questions about COSCUP.  
+
 <br>
 
 ### Tools
