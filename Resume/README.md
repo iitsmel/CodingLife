@@ -31,6 +31,10 @@
       - Tech issues such as unable to go through certain gate.
       - Questions about COSCUP.  
 
+- [UbuCon Asia 2021 Translation Team](https://2021.ubucon.asia)
+  - In general:
+    - Translate subtitles of session videos into (zh-Hant-TW).
+
 <br>
 
 ### Tools
