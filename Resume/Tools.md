@@ -31,7 +31,7 @@ Tools I've used before / currently using.
 
 <br>
 
-- DVWA
+- DVWA and anything SQL Injection related 
   - Firefox
     - browser 
   - xampp
@@ -40,6 +40,8 @@ Tools I've used before / currently using.
     - [Brute Force](https://github.com/iitsmel/CYS/tree/main/DVWA/BruteForce)
   - Netcat
     - [Command Execution](https://github.com/iitsmel/CYS/tree/main/DVWA/CommandExecution)
+  - salmap
+    - SQL Injection
 
 <br>
 
