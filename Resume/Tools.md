@@ -27,7 +27,7 @@ Tools I've used before / currently using.
   - QEMU
     - Play around no particular use.
   - Kali 
-    - Play around no particular use.
+    - for everything
 
 <br>
 
