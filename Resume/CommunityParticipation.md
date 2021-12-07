@@ -20,7 +20,7 @@
 
 - [HITCON 2021 Sponsor Team](https://hitcon.org/2021/)
   - In general:
-    - Help the leader ( I am associate team leader ) with collecting sponsors' logos, archiving some files, and supervising other team members.
+    - Help the leader with collecting sponsors' logos, archiving some files, and supervising other team members.
   - Specialty:
     - Translate documents when one is written in English. (If the time limit is short.)
     - Come up with alternative back up plans for our team. 
