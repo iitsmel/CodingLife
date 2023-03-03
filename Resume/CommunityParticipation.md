@@ -35,5 +35,19 @@
   - In general:
     - Translate subtitles of session videos into (zh-Hant-TW).
 
+- [COSCUP 2022 Agenda Team](https://coscup.org/2022/en/)
+  - In general:
+    - First-timer Program
+      - This is a new program, thus I have to determine the goal and approach for this program.
+      - Determine the timeline of this program and collaborate with other 2 program members.
+    - Community Track
+      - Review the articles writen by community track leader. (assist role)
+      - Keep track of each meeting with communities.
+  - Specialty:
+    - Balancing possible time cost, feelings, rights and interests between review board members, speakers and program members that are in first-timer program.
+    - Greet communities members in Welcome Party, get socializing.
+    - Host a track and greet the speakers.
+
+
 <br>
 
